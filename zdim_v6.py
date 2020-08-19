@@ -22,7 +22,7 @@
 #
 #   All code, including the zdimpy package, is written by Zacharias Liasi
 #
-#   GitHub repository: https://github.com/zliasi/zdim
+#   GitHub repository: https://github.com/zliasi/zdim_v6.py
 #
 #   Last edited: 19 Aug. 2020.
 #
