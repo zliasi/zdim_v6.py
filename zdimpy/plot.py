@@ -42,7 +42,7 @@ def dipole_append(
     )
 
 
-def logplot(
+def logplot(.
     freq,
     dip_x,
     abs_x,
